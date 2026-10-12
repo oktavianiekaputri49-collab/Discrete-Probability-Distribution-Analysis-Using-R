@@ -1,0 +1,40 @@
+# Discrete Probability Distribution Analysis Using R
+
+## About the Project
+This project explores discrete probability distributions using R. It focuses on understanding probability concepts and performing calculations to solve basic statistical problems.
+
+## Objectives
+- Understand the concept of discrete probability distributions.
+- Calculate probabilities using R.
+- Apply probability formulas to statistical problems.
+- Interpret probability calculation results.
+
+## Tools
+- **Programming Language:** R
+- **Environment:** RStudio
+
+## Topics Covered
+- Discrete Random Variables
+- Probability Mass Functions (PMF)
+- Discrete Probability Calculations
+- Probability Distribution Interpretation
+
+## Applications
+Discrete probability distributions can be applied to various situations, such as:
+- Counting the number of customers visiting a store.
+- Calculating the number of successful outcomes in repeated trials.
+- Analyzing the number of defective products.
+- Modeling events that occur within a specific period.
+
+## Key Skills
+- Basic R Programming
+- Probability Calculations
+- Statistical Analysis
+- Data Interpretation
+
+## Project Purpose
+This project serves as a learning resource for understanding discrete probability distributions and implementing basic probability calculations using R.
+
+---
+**Author:** Oktaviani Eka Putri  
+**Field of Study:** Statistics
